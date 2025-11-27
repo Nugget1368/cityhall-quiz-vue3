@@ -1,0 +1,7 @@
+<template>
+    <section>
+        <article>
+            <h1>404 not found.</h1>
+        </article>
+    </section>
+</template>
